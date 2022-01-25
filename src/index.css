@@ -49,3 +49,8 @@
     color: #f1356d;
     margin-bottom: 8px;
 }
+
+.blog-preview p {
+    font-size: 20px;
+    color: #777
+}
