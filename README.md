@@ -2,15 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Development Setup
 
 In the project directory, you can run:
 
-### `npm start`
-
-Before runnig the react server makesure you have your JSON server running using the following command
-
-##### `npx json-server --watch data/db.json --port 8000`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Create a folder called data and place your json data in that folder.
+1. Run `npx json-server --watch data/db.json --port 8000` to start the json server.
+1. Now the app is runing in port [http://localhost:3000](http://localhost:3000) in developoment mode.
