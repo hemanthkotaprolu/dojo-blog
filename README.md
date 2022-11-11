@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This simple blog website built using ReactJS.
+1. This simple blog website built using ReactJS.
+1. Followed `The net ninja` tutorial series on youtube.
 
 ## Development Setup
 
